@@ -99,7 +99,7 @@ git diff --check
 | 艾克代·艾麦提 | [aabb0101aa](https://github.com/aabb0101aa) |
 | 周煜莹 | — |
 | 顾金昊 | — |
-| 李沁婷 | — |
+| 李沁婷 | [QintingLee] |
 | 谢礼翰 | — |
 | 瞿李睿 | [qulirui](https://github.com/qulirui) |
 | 王妍佳 | — |
